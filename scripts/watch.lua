@@ -1,7 +1,16 @@
 HOSTED_ITEMS =
 {
-  "silphco",
-  "fuji"
+  "brock_beaten",
+  "misty_beaten",
+  "surge_beaten",
+  "erika_beaten",
+  "koga_beaten",
+  "sabrina_beaten",
+  "blaine_beaten",
+  "giovanni_beaten",
+  "bill",
+  "fuji",
+  "silphco"
 }
 
 function initialize_watch_items()
